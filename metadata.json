@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Empathetic Human-Like AI Companion & Personal Mentor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
